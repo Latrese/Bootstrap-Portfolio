@@ -9,7 +9,7 @@ p{
     background-size: cover;
 }
 body{
-    background-color: red;
+    background-color: white;
 }
 header{
     
@@ -17,4 +17,10 @@ header{
 }
 #rowEdit{
     background-color: black;
+}
+h6{
+    margin: 10px;    
+}
+#row{
+    text-align: end;
 }
